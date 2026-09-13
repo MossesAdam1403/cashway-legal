@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CashWay — Privacy Policy</title>
+<style>
+  :root {
+    --black: #0a0a0a;
+    --gray-900: #1a1a1a;
+    --gray-600: #555;
+    --gray-300: #ddd;
+    --gray-100: #f7f7f7;
+    --white: #ffffff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--gray-900);
+    background: var(--white);
+    line-height: 1.65;
+  }
+  header {
+    background: var(--black);
+    color: var(--white);
+    padding: 40px 20px 32px;
+    text-align: center;
+  }
+  header .mark {
+    font-weight: 800;
+    font-size: 22px;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+  }
+  header h1 {
+    margin: 12px 0 4px;
+    font-size: 26px;
+    font-weight: 700;
+  }
+  header .meta {
+    color: #aaa;
+    font-size: 13px;
+  }
+  main {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 20px 80px;
+  }
+  h2 {
+    font-size: 18px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--black);
+  }
+  h2:first-of-type { margin-top: 8px; }
+  p { margin: 10px 0; color: var(--gray-900); font-size: 15px; }
+  ul { margin: 10px 0; padding-left: 22px; }
+  li { margin-bottom: 6px; font-size: 15px; }
+  strong { font-weight: 700; }
+  .callout {
+    background: var(--gray-100);
+    border-left: 3px solid var(--black);
+    padding: 14px 16px;
+    margin: 16px 0;
+    font-size: 14px;
+    color: var(--gray-600);
+  }
+  footer {
+    text-align: center;
+    padding: 30px 20px;
+    color: var(--gray-600);
+    font-size: 13px;
+    border-top: 1px solid var(--gray-300);
+  }
+  a { color: var(--black); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="mark">CASHWAY</div>
+  <h1>Privacy Policy</h1>
+  <div class="meta">Last Updated: August 28, 2026 &nbsp;·&nbsp; Version 1.0</div>
+</header>
+
+<main>
+
+<h2>1. Who We Are</h2>
+<p>CashWay is a cash delivery platform operating in Tanzania. CashWay connects customers who request physical cash with verified agents who deliver the requested cash in person. CashWay does not currently process electronic payments through the app. The physical cash exchange takes place directly between the customer and the agent.</p>
+
+<h2>2. Information We Collect</h2>
+<p><strong>Account information:</strong> Full name, phone number, email (where provided), account role (customer or agent).</p>
+<p><strong>Agent verification information:</strong> Verification information and photographs submitted by agents during registration, used to determine eligibility to operate on CashWay. Restricted to authorized CashWay personnel — not shown to customers.</p>
+<p><strong>Location information:</strong> GPS coordinates when requesting, accepting, or completing a delivery. Used for matching, service-area enforcement, delivery verification, fraud prevention, and dispute investigation.</p>
+<p><strong>Order and transaction information:</strong> Requested amount, service fee, delivery fee, associated agent/customer, order status, creation/completion times, cancellation/expiration data, settlement records.</p>
+<p><strong>OTP information:</strong> CashWay uses two distinct types of one-time codes — (a) authentication OTPs to verify your identity at login/signup, and (b) delivery confirmation OTPs to confirm cash handover at the point of delivery. These serve different purposes and are logged separately.</p>
+<p><strong>Device and notification information:</strong> Firebase push token, and information necessary to deliver account/request notifications.</p>
+
+<h2>3. How We Use Your Information</h2>
+<p>Account creation and management; SMS OTP authentication; agent verification; customer-agent matching; facilitating and confirming delivery; fee and settlement tracking; enforcing limits, cooldowns, and geofencing; fraud detection and investigation; dispute resolution; notifications; platform security; legal and regulatory compliance.</p>
+
+<h2>4. CashWay Does Not Process Electronic Payments</h2>
+<p>CashWay does not store card numbers or mobile-money PINs, initiate mobile-money transfers, hold customer electronic funds, or operate as a bank or e-money wallet. The delivery-confirmation OTP verifies handover — it is not a payment authorization.</p>
+
+<h2>5. Information Shared Between Customers and Agents</h2>
+<p>To complete a delivery, matched parties may receive each other's name, approximate location, and order/delivery details — limited to what's reasonably necessary. Agent verification photographs are never shared with customers.</p>
+
+<h2>6. Service Providers</h2>
+<p>CashWay uses third-party providers for database/cloud infrastructure, image storage, SMS delivery, push notifications, and hosting. Current providers include MongoDB Atlas, Cloudinary, Firebase, and Africa's Talking (SMS). These providers process data on CashWay's behalf under their own security obligations.</p>
+
+<h2>7. Data Storage</h2>
+<p>Account, order, and transaction data is stored on MongoDB Atlas; agent verification photos on Cloudinary. We apply reasonable technical and organizational safeguards, though no internet-based system is guaranteed fully secure.</p>
+
+<h2>8. Data Retention</h2>
+<ul>
+  <li>Transaction and settlement records: retained for <strong>7 years</strong> from the date of the transaction, in line with standard Tanzanian financial recordkeeping practice.</li>
+  <li>Account information: retained for the life of the account plus <strong>2 years</strong> after closure, or longer if required for an active dispute, investigation, or legal obligation.</li>
+  <li>Location logs tied to individual orders: retained for <strong>12 months</strong>, then aggregated or deleted.</li>
+  <li>OTP codes: deleted or invalidated immediately after use or expiry — not retained beyond that window.</li>
+</ul>
+
+<h2>9. Location and Geofencing</h2>
+<p>Location data is used to confirm requests/deliveries fall within supported service areas, match nearby agents, assist delivery, and investigate disputes or suspicious activity. Service areas may expand over time.</p>
+
+<h2>10. Your Privacy Rights</h2>
+<p>Subject to Tanzania's Personal Data Protection Act (2022), you may request access, correction, or deletion of your personal data, and information about how it's processed. Some data may be retained post-request where legally required (see Section 8).</p>
+
+<h2>11. Account Deletion</h2>
+<p>You may request account deletion. Records CashWay is legally required or reasonably needs to retain (disputes, fraud prevention, financial recordkeeping) will be retained per the schedule in Section 8 even after account closure.</p>
+
+<h2>12. Children's Privacy</h2>
+<p>CashWay is intended for individuals 18 and older. We do not knowingly permit anyone under 18 to hold an account.</p>
+
+<h2>13. Regulatory Registration</h2>
+<p>CashWay operates as a data controller under Tanzania's Personal Data Protection Act.</p>
+<div class="callout">[Insert Personal Data Protection Commission registration status/number once registration is complete.]</div>
+
+<h2>14. Changes to This Policy</h2>
+<p>Material changes may require re-acceptance before continued use. The accepted version is recorded against your account.</p>
+
+<h2>15. Contact Us</h2>
+<p>Email: <a href="mailto:cashway.officiall@gmail.com">cashway.officiall@gmail.com</a></p>
+
+</main>
+
+<footer>
+  © 2026 CashWay. All rights reserved.
+</footer>
+
+</body>
+</html>
