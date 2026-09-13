@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CashWay — Terms and Conditions</title>
+<style>
+  :root {
+    --black: #0a0a0a;
+    --gray-900: #1a1a1a;
+    --gray-600: #555;
+    --gray-300: #ddd;
+    --gray-100: #f7f7f7;
+    --white: #ffffff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--gray-900);
+    background: var(--white);
+    line-height: 1.65;
+  }
+  header {
+    background: var(--black);
+    color: var(--white);
+    padding: 40px 20px 32px;
+    text-align: center;
+  }
+  header .mark {
+    font-weight: 800;
+    font-size: 22px;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+  }
+  header h1 {
+    margin: 12px 0 4px;
+    font-size: 26px;
+    font-weight: 700;
+  }
+  header .meta {
+    color: #aaa;
+    font-size: 13px;
+  }
+  main {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 20px 80px;
+  }
+  h2 {
+    font-size: 18px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--black);
+  }
+  h2:first-of-type { margin-top: 8px; }
+  p { margin: 10px 0; color: var(--gray-900); font-size: 15px; }
+  ul { margin: 10px 0; padding-left: 22px; }
+  li { margin-bottom: 6px; font-size: 15px; }
+  strong { font-weight: 700; }
+  .callout {
+    background: var(--gray-100);
+    border-left: 3px solid var(--black);
+    padding: 14px 16px;
+    margin: 16px 0;
+    font-size: 14px;
+    color: var(--gray-600);
+  }
+  footer {
+    text-align: center;
+    padding: 30px 20px;
+    color: var(--gray-600);
+    font-size: 13px;
+    border-top: 1px solid var(--gray-300);
+  }
+  a { color: var(--black); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="mark">CASHWAY</div>
+  <h1>Terms and Conditions</h1>
+  <div class="meta">Last Updated: August 28, 2026 &nbsp;·&nbsp; Version 1.0</div>
+</header>
+
+<main>
+
+<h2>1. About CashWay</h2>
+<p>A platform connecting customers requesting physical cash with verified agents who deliver it in person. CashWay does not process electronic payments — cash exchange happens directly between customer and agent.</p>
+
+<h2>2. Eligibility</h2>
+<p>18+, accurate registration information, valid Tanzanian phone number, compliance with these Terms and applicable law. Service may be restricted to defined geographic areas.</p>
+
+<h2>3. Customer Requests</h2>
+<p>Current limits: max TZS 50,000/day requested, max 5 requests/day. CashWay may change these for security, operational, legal, or regulatory reasons, with notice per Section 17.</p>
+
+<h2>4. Customer Fees and Payment</h2>
+<p>Customer pays the agent directly at delivery through source of fund confirmed at the summary page : requested amount + 3% service fee + TZS 1,000 delivery fee. Not processed electronically.</p>
+
+<h2>5. Cash Delivery Confirmation</h2>
+<p>A 6-digit delivery OTP confirms handover. Providing it confirms cash was received. Do not confirm before actually receiving cash — false confirmation may result in suspension or termination.</p>
+
+<h2>6. Customer Responsibilities</h2>
+<ul>
+  <li>Provide accurate information</li>
+  <li>Provide a valid delivery location</li>
+  <li>Be available to receive the requested cash</li>
+  <li>Pay the applicable amount to the agent</li>
+  <li>Use CashWay only for legitimate purposes</li>
+  <li>Protect account and OTP credentials</li>
+  <li>No fraudulent or misleading requests</li>
+</ul>
+
+<h2>7. Agent Requirements</h2>
+<ul>
+  <li>Complete verification before accepting requests</li>
+  <li>Provide accurate registration information</li>
+  <li>Maintain sufficient cash to fulfill accepted requests</li>
+  <li>Deliver the exact requested amount</li>
+  <li>Collect the correct payment</li>
+  <li>Follow delivery and verification procedures</li>
+  <li>Protect customer information</li>
+  <li>Act honestly and professionally</li>
+</ul>
+
+<h2>8. Agent Fees and Settlement</h2>
+<p>CashWay's share: 3% service fee + 20% of the TZS 1,000 delivery fee, recorded against the agent's settlement balance. Debt ceiling: TZS 5,000 — reaching it blocks new requests until cleared via CashWay's settlement process.</p>
+<div class="callout"><strong>Fee/settlement structure changes:</strong> CashWay will provide at least 14 days' advance notice via in-app notification and SMS before any change to fee percentages, delivery fee amounts, or the debt ceiling takes effect. Changes do not apply retroactively to already-completed orders.</div>
+
+<h2>9. Agent Responsibility for Cash</h2>
+<p>Agents are responsible for cash they carry and deliver, and may be held responsible for losses caused by their own error, negligence, fraud, or procedural failure. CashWay may investigate and act on reported incidents.</p>
+
+<h2>10. Cancellations and Cooldowns</h2>
+<p>15-minute cooldown after completion; 30-minute after cancellation. Subject to change with notice per Section 17.</p>
+
+<h2>11. Fraud and Prohibited Conduct</h2>
+<p>Users must not: create fraudulent requests, provide false information, manipulate GPS/location data, share or misuse OTPs, falsely confirm deliveries, refuse legitimate payment after receiving cash, misappropriate customer or CashWay funds, manipulate fees/limits/settlement, use CashWay unlawfully, or interfere with the platform. Violations may result in investigation and account action.</p>
+
+<h2>12. Disputes</h2>
+<p>CashWay reviews available evidence (OTP logs, GPS/location data, order history, timestamps, account records) to determine platform-level action (suspension, debt adjustment, etc.).</p>
+<p><strong>Escalation:</strong> If a party disputes CashWay's platform-level decision, unresolved disputes will first go through CashWay's internal appeal process (submit a written appeal within 14 days of the decision). If unresolved after appeal, either party may pursue the matter through the courts of the United Republic of Tanzania, or through arbitration if both parties agree in writing. CashWay's platform decisions do not limit or remove any statutory legal rights either party holds under Tanzanian law.</p>
+
+<h2>13. Service Availability and Geofencing</h2>
+<p>Operates only within supported service areas; requests outside are auto-rejected. No guarantee of uninterrupted availability. Areas may expand.</p>
+
+<h2>14. Account Suspension and Termination</h2>
+<p>CashWay may suspend or terminate accounts for reasonable evidence of fraud, abuse, Terms violations, repeated complaints, OTP misuse, settlement non-compliance, platform manipulation, or unlawful activity. Notice or a chance to resolve will be given where appropriate, except in cases of suspected fraud or safety risk.</p>
+
+<h2>15. Limitation of Liability</h2>
+<p>CashWay is a matching, facilitation, and verification platform — not a bank, payment processor, or e-money provider. To the maximum extent permitted under Tanzanian law, CashWay is not liable for losses arising solely from circumstances outside its reasonable control, including cash loss, theft, or customer/agent misconduct. Nothing here excludes liability that cannot be lawfully excluded.</p>
+
+<h2>16. Intellectual Property</h2>
+<p>CashWay's app, brand, software, designs, logos, content, and technology are owned by or licensed to CashWay. No copying, modification, distribution, reverse-engineering, or commercial exploitation without permission, except as permitted by law.</p>
+
+<h2>17. Notice of Changes</h2>
+<p>Non-material changes (e.g., clarifications) may take effect immediately. Material changes — including fee, limit, or debt-ceiling changes — require at least 14 days' notice via in-app notification and SMS before taking effect. Material Terms changes may require re-acceptance before continued use; the accepted version is recorded against the user's account.</p>
+
+<h2>18. Governing Law and Jurisdiction</h2>
+<p>Governed by the laws of the United Republic of Tanzania. Subject to Section 12, disputes not resolved through CashWay's internal process are subject to the exclusive jurisdiction of the courts of Dar es Salaam, Tanzania.</p>
+
+<h2>19. Contact</h2>
+<p>Email: <a href="mailto:cashway.officiall@gmail.com">cashway.officiall@gmail.com</a></p>
+
+</main>
+
+<footer>
+  © 2026 CashWay. All rights reserved.
+</footer>
+
+</body>
+</html>
